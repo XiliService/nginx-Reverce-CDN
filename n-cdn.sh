@@ -13,6 +13,7 @@ NGINX_CONF="/etc/nginx/nginx.conf"
 NGINX_BACKUP="/etc/nginx/nginx.conf.bak"
 SSL_DIR="/etc/letsencrypt/live"
 
+
 if [ "$EUID" -ne 0 ]; then
   echo -e "${RED}Please run as root${NC}"
   exit
