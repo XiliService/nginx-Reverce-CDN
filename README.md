@@ -22,7 +22,7 @@
 </p‌>‌
 ‌
 <p align="center">
-  <img src="https://github.com/im-JvD/nginx-Reverce-CDN/blob/main/Nginx%20Cloudflare%20CDN.jpg" width="1080px" />
+  <img src="https://raw.githubusercontent.com/im-JvD/nginx-Reverce-CDN/refs/heads/main/Nginx%20Cloudflare%20CDN.jpg" width="1080px" />
 </p‌>
 ‌
 <p align="center">
