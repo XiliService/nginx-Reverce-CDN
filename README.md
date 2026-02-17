@@ -30,7 +30,7 @@
 </p‌>
 
 ```
-curl -fsSL https://github.com/im-JvD/nginx-Reverce-CDN/releases/download/v1.0.1/installer.sh | bash
+curl -fsSL https://github.com/im-JvD/nginx-Reverce-CDN/releases/download/v1.0.0/installer.sh | bash
 ```
 پس از نمایش منوی اسکریپت **مراحل زیر رو به ترتیب** اجرا کنید
 
