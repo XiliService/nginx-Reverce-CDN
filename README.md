@@ -9,7 +9,7 @@
 - **فعال‌سازی خودکار** BBR
 - حذف کامل هسته، پاکسازی و **بازگردانی به حالت دیفالت** سرور
 <p align="center"><br>
-  <img src="https://img.shields.io/badge/Downloads-LOADING-lightgrey" />
+  <img src="https://img.shields.io/badge/Downloads-5-lightgrey" />
 </p>
 ‌
 <p align="center">
