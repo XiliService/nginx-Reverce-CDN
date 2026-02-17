@@ -7,14 +7,11 @@
 - **نصب پکیج‌های وابسته** بصورت خودکار 
 - **تنظیم ساعت سرور** بصورت خودکار
 - **فعال‌سازی خودکار** BBR
-- حذف کامل هسته، پاکسازی و **بازگردانی به حالت دیفالت** سرور 
-
+- حذف کامل هسته، پاکسازی و **بازگردانی به حالت دیفالت** سرور
 ‌
 <p align="center">
-  ‌ ‌
-</p‌>
-
-‌
+ <a href="#-مراحل-نصب-و-اجرای-اسکریپت">دستور نصب و اجرا</a> - <a href="https://example.com">متن لینک‌دار من</a> - <a href="https://example.com">متن لینک‌دار من</a> - <a href="https://example.com">متن لینک‌دار من</a> - <a href="https://example.com">متن لینک‌دار من</a> - <a href="https://example.com">متن لینک‌دار من</a>
+</p‌>‌
 ‌
 <p align="center">
   <img src="https://github.com/im-JvD/nginx-Reverce-CDN/blob/main/Nginx%20Cloudflare%20CDN.jpg" width="1080px" />
