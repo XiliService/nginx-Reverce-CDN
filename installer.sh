@@ -20,7 +20,7 @@ fi
 
 
 INSTALL_PATH="/usr/local/bin/n-cdn"
-GITHUB_URL="https://raw.githubusercontent.com/im-JvD/nginx-Reverce-CDN/refs/heads/main/n-cdn.sh"
+GITHUB_URL="https://raw.githubusercontent.com/im-JvD/nginx-Reverce-CDN/refs/heads/main/installer.sh"
 
 if [ ! -f "$INSTALL_PATH" ]; then
     echo -e "${YELLOW}Downloading and Installing n-cdn...${NC}"
