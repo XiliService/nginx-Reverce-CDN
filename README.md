@@ -8,14 +8,6 @@
 - **تنظیم ساعت سرور** بصورت خودکار
 - **فعال‌سازی خودکار** BBR
 - حذف کامل هسته، پاکسازی و **بازگردانی به حالت دیفالت** سرور
-
-<p align="center">
-  <br>
-  <a href="https://github.com/im-JvD/nginx-Reverce-CDN">
-    <img src="https://img.shields.io/badge/Downloads-6-brightgreen" alt="Downloads">
-    <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
-  </a>
-</p>
 ‌
 <p align="center">
  <a href="#-مراحل-نصب-و-اجرای-اسکریپت">دستور نصب و اجرا</a> - <a href="#تنظیمات-کلودفلر">تنظیمات CloudFlare</a><br> <a href="#نصب-و-تنظیمات-پنل-x-ui">نصب و تنظیمات پنل X-UI</a> - <a href="#تنظیمات-سمت-سرور">تنظیمات سمت سرور</a><br> <a href="#تنظیمات-دستی-کانفیگ-vless-در-اپلیکیشن-کلاینت">تنظیم دستی TLS</a> - <a href="#نکات-قابل-توجه">نکات قابل توجه</a><br> <a href="https://t.me/efnhi/298">منبع آموزش و تولید اسکریپت</a><br>
@@ -134,5 +126,5 @@ ___
  ‌
 <p align="center">
 <b>
- <a href="https://t.me/MmDJvD_Karimi">im-JvD</a> - [ 28-11-1404 ]</b>
+ <a href="https://t.me/MmDJvD_Karimi">im-JvD</a> - [ 1404,11,28 ]</b>
 </p‌>
